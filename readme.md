@@ -4,4 +4,4 @@
 
 You can read the tutorial of this project by clicking the link below
 
-- **[Tutorial on medium](https://vehikl.com/)**
+- **[Tutorial on medium](https://medium.com/@razaqofficial/laravel-automated-4b34f7677495)**

@@ -71,8 +71,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Medium</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://medium.com/@razaqofficial/laravel-automated-4b34f7677495">Medium</a>
+                    <a href="https://github.com/razaqofficial/testing-project">GitHub</a>
                 </div>
             </div>
         </div>
